@@ -6,7 +6,6 @@ fun main() {
     // 2. Chamada da função para exibir os dados
     exibirInformacoes(nome, idade)
 }
-
 /**
  * Imprime uma saudação inicial e exibe o nome e a idade da pessoa.
  *

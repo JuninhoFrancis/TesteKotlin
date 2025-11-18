@@ -6,5 +6,5 @@ fun main() {
     var idade = 18
 
     println("Nome: $nome")
-    println("Idade: $idade")
+    println("Idade: $idade ")
 }
